@@ -1,4 +1,4 @@
-# - - - - - - - - - - Home - - - - - - - - - -
+# <center style="font-size:40px;"> - - - - - - - - - - Home - - - - - - - - - - </center>
 
 <img src="../../Images/ms_excel/ribbons/1_home.png" style="width:100%;" />
 
@@ -124,7 +124,7 @@
 <br />
 <br />
 
-# Editing
+# 7. Editing
 
 <img src="../../Images/ms_excel/tab_1_home/7_editing.png" style="width:100%;" />
 
