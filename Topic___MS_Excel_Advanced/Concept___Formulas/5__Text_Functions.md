@@ -2,7 +2,7 @@
 
 | Formula                  | Description                       | Example                         |
 | ------------------------ | --------------------------------- | ------------------------------- |
-| `CONCATENATE` / `CONCAT` | Joins strings                     | `=CONCAT(A1, " ", B1)`          |
+| `CONCAT` / `CONCATENATE` | Joins strings                     | `=CONCAT(A1, " ", B1)`          |
 | `TEXTJOIN`               | Joins with delimiter              | `=TEXTJOIN(", ", TRUE, A1:A3)`  |
 | `LEFT`                   | Extracts left characters          | `=LEFT(A1, 5)`                  |
 | `RIGHT`                  | Extracts right characters         | `=RIGHT(A1, 4)`                 |

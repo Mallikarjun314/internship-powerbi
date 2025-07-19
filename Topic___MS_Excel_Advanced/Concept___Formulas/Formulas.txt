@@ -1,0 +1,83 @@
+------------------- MATH
+SUM
+SUBTOTAL
+PRODUCT
+ROUND
+ROUNDUP
+ROUNDDOWN
+INT
+MOD
+POWER
+SQRT
+
+------------------- Logical
+IF
+IFERROR
+AND
+OR
+NOT
+IFS
+
+------------------- Date & Time
+TODAY
+NOW
+DATE
+EOMONTH
+DAY
+MONTH
+YEAR
+DATEDIF
+
+------------------- Lookup & Reference
+VLOOKUP
+HLOOKUP
+INDEX
+MATCH
+XLOOKUP
+CHOOSE
+LOOKUP
+
+
+------------------- Finance
+PMT
+FV
+PV
+NPV
+IRR
+RATE
+
+
+------------------- Statistics
+AVERAGE
+MEDIAN
+MODE
+MAX
+MIN
+COUNT
+COUNTA
+COUNTBLANK
+COUNTIF
+COUNTIFS
+
+------------------- Text Functions
+CONCAT
+TEXTJOIN
+LEFT
+RIGHT
+MID
+LEN
+FIND
+SEARCH
+TRIM
+UPPER
+LOWER
+PROPER
+REPLACE
+SUBSTITUTE
+
+------------------ Arrays
+UNIQUE
+SORT
+FILTER
+SEQUENCE
+RANDARRAY
