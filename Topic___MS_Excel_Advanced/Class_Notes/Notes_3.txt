@@ -1,0 +1,36 @@
+Dataset: Video Game Sales 
+
+Rows / Columns / Filters:
+1. Platform - Xbox, PlayStation ...
+2. Year - Year of Sales
+3. Genre - Sports, Racing, Action ..
+4. Publisher - Company
+
+Values:
+5. NA_Sales - North America
+6. EU_Sales - Europe
+7. JP_Sales - Japan
+8. Other_Sales - Other 
+9. Global_Sales - Total
+------------------------------------
+1. Bar Chart - Quantitati
+2. Pie Chart - Proportion
+3. Line Chart - Quantitative
+4. Scatter Plot - X, Y
+5. Box Plot - Min, Max, Median, Quartiles.
+6. Histogram
+
+----------------------------------------
+1. Top 10 Companies by Global Sales
+2. For the Top Company by Sales do the following Analysis
+2.1. Year wise Sales for each Genre
+2.2. Year wise sales for each Game (Name Column)
+2.3. Find the top 10 Selling games of the company
+2.4. Find the top 10 Selling Genres of the company
+2.5. Which Zone Generated the Most Sales.
+
+- Interactive Reports using Filters, Slicers,
+- Pivot Tables - Filters, Rows, Columns, Values (Numeric)
+- Charts - Bar, Line, Pie, Scatter, Histogram, Box Plot
+- Formulas 
+

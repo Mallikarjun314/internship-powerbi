@@ -1,0 +1,7 @@
+Download 5 Data Sets from the Git Hub Link
+Under "/2_Practice_Datasets/TSV" Folder
+-------------------------------
+- Data Types in Data Analysis Prespective
+- Pivot Tables
+- Charts
+- 
