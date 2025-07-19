@@ -1,45 +1,45 @@
-Band	Album	Genre	Item Number	 Price 	Quarter	Copies Sold	 Sales 
-Blaqk Audio	Material	Synthpop	658765770001	 $9.20 	1	56	 $515.20 
-Blaqk Audio	Material	Synthpop	658765770001	 $9.20 	2	85	 $782.00 
-Blaqk Audio	Material	Synthpop	658765770001	 $9.20 	3	3	 $27.60 
-Blaqk Audio	Material	Synthpop	658765770001	 $9.20 	4	45	 $414.00 
-Covenant	The Blinding Dark	Futurepop	658745982100	 $11.30 	1	20	 $226.00 
-Covenant	The Blinding Dark	Futurepop	658745982100	 $11.30 	2	75	 $847.50 
-Covenant	The Blinding Dark	Futurepop	658745982100	 $11.30 	3	56	 $632.80 
-Covenant	The Blinding Dark	Futurepop	658745982100	 $11.30 	4	27	 $305.10 
-Depeche Mode	Spirit	Electronic	101006587955	 $5.77 	1	189	 $1,090.53 
-Depeche Mode	Spirit	Electronic	101006587955	 $5.77 	2	150	 $865.50 
-Depeche Mode	Spirit	Electronic	101006587955	 $5.77 	3	85	 $490.45 
-Depeche Mode	Spirit	Electronic	101006587955	 $5.77 	4	192	 $1,107.84 
-Erasure	World Be Gone	Synthpop	601100065879	 $7.99 	1	31	 $247.69 
-Erasure	World Be Gone	Synthpop	601100065879	 $7.99 	2	135	 $1,078.65 
-Erasure	World Be Gone	Synthpop	601100065879	 $7.99 	3	75	 $599.25 
-Erasure	World Be Gone	Synthpop	601100065879	 $7.99 	4	76	 $607.24 
-Future Islands	The Far Field	Synthpop	178012548711	 $7.99 	1	80	 $639.20 
-Future Islands	The Far Field	Synthpop	178012548711	 $7.99 	2	74	 $591.26 
-Future Islands	The Far Field	Synthpop	178012548711	 $7.99 	3	65	 $519.35 
-Future Islands	The Far Field	Synthpop	178012548711	 $7.99 	4	89	 $711.11 
-Hurts	Desire	Pop	351000587561	 $11.10 	1	15	 $166.50 
-Hurts	Desire	Pop	351000587561	 $11.10 	2	85	 $943.50 
-Hurts	Desire	Pop	351000587561	 $11.10 	3	32	 $355.20 
-Hurts	Desire	Pop	351000587561	 $11.10 	4	20	 $222.00 
-OMD	The Punishment of Luxury	Synthpop	886513250804	 $7.46 	1	132	 $984.72 
-OMD	The Punishment of Luxury	Synthpop	886513250804	 $7.46 	2	145	 $1,081.70 
-OMD	The Punishment of Luxury	Synthpop	886513250804	 $7.46 	3	73	 $544.58 
-OMD	The Punishment of Luxury	Synthpop	886513250804	 $7.46 	4	46	 $343.16 
-The Frozen Autumn	The Fellow Traveller	Darkwave	587005465891	 $12.22 	1	15	 $183.30 
-The Frozen Autumn	The Fellow Traveller	Darkwave	587005465891	 $12.22 	2	45	 $549.90 
-The Frozen Autumn	The Fellow Traveller	Darkwave	587005465891	 $12.22 	3	12	 $146.64 
-The Frozen Autumn	The Fellow Traveller	Darkwave	587005465891	 $12.22 	4	60	 $733.20 
-The Jellyrox	Bang and Whimper	Synthpop	100235413287	 $8.00 	1	17	 $136.00 
-The Jellyrox	Bang and Whimper	Synthpop	100235413287	 $8.00 	2	8	 $64.00 
-The Jellyrox	Bang and Whimper	Synthpop	100235413287	 $8.00 	3	35	 $280.00 
-The Jellyrox	Bang and Whimper	Synthpop	100235413287	 $8.00 	4	28	 $224.00 
-The Killers	Wonderful Wonderful	Rock	175235411350	 $11.88 	1	155	 $1,841.40 
-The Killers	Wonderful Wonderful	Rock	175235411350	 $11.88 	2	85	 $1,009.80 
-The Killers	Wonderful Wonderful	Rock	175235411350	 $11.88 	3	155	 $1,841.40 
-The Killers	Wonderful Wonderful	Rock	175235411350	 $11.88 	4	155	 $1,841.40 
-Ulver	The Assassination of Julius Caesar	Synthpop	512548965412	 $10.68 	1	92	 $982.56 
-Ulver	The Assassination of Julius Caesar	Synthpop	512548965412	 $10.68 	2	29	 $309.72 
-Ulver	The Assassination of Julius Caesar	Synthpop	512548965412	 $10.68 	3	54	 $576.72 
-Ulver	The Assassination of Julius Caesar	Synthpop	512548965412	 $10.68 	4	69	 $736.92 
+Band,Album,Genre,Item Number, Price ,Quarter,Copies Sold, Sales 
+Blaqk Audio,Material,Synthpop,658765770001, $9.20 ,1,56, $515.20 
+Blaqk Audio,Material,Synthpop,658765770001, $9.20 ,2,85, $782.00 
+Blaqk Audio,Material,Synthpop,658765770001, $9.20 ,3,3, $27.60 
+Blaqk Audio,Material,Synthpop,658765770001, $9.20 ,4,45, $414.00 
+Covenant,The Blinding Dark,Futurepop,658745982100, $11.30 ,1,20, $226.00 
+Covenant,The Blinding Dark,Futurepop,658745982100, $11.30 ,2,75, $847.50 
+Covenant,The Blinding Dark,Futurepop,658745982100, $11.30 ,3,56, $632.80 
+Covenant,The Blinding Dark,Futurepop,658745982100, $11.30 ,4,27, $305.10 
+Depeche Mode,Spirit,Electronic,101006587955, $5.77 ,1,189, $1,090.53 
+Depeche Mode,Spirit,Electronic,101006587955, $5.77 ,2,150, $865.50 
+Depeche Mode,Spirit,Electronic,101006587955, $5.77 ,3,85, $490.45 
+Depeche Mode,Spirit,Electronic,101006587955, $5.77 ,4,192, $1,107.84 
+Erasure,World Be Gone,Synthpop,601100065879, $7.99 ,1,31, $247.69 
+Erasure,World Be Gone,Synthpop,601100065879, $7.99 ,2,135, $1,078.65 
+Erasure,World Be Gone,Synthpop,601100065879, $7.99 ,3,75, $599.25 
+Erasure,World Be Gone,Synthpop,601100065879, $7.99 ,4,76, $607.24 
+Future Islands,The Far Field,Synthpop,178012548711, $7.99 ,1,80, $639.20 
+Future Islands,The Far Field,Synthpop,178012548711, $7.99 ,2,74, $591.26 
+Future Islands,The Far Field,Synthpop,178012548711, $7.99 ,3,65, $519.35 
+Future Islands,The Far Field,Synthpop,178012548711, $7.99 ,4,89, $711.11 
+Hurts,Desire,Pop,351000587561, $11.10 ,1,15, $166.50 
+Hurts,Desire,Pop,351000587561, $11.10 ,2,85, $943.50 
+Hurts,Desire,Pop,351000587561, $11.10 ,3,32, $355.20 
+Hurts,Desire,Pop,351000587561, $11.10 ,4,20, $222.00 
+OMD,The Punishment of Luxury,Synthpop,886513250804, $7.46 ,1,132, $984.72 
+OMD,The Punishment of Luxury,Synthpop,886513250804, $7.46 ,2,145, $1,081.70 
+OMD,The Punishment of Luxury,Synthpop,886513250804, $7.46 ,3,73, $544.58 
+OMD,The Punishment of Luxury,Synthpop,886513250804, $7.46 ,4,46, $343.16 
+The Frozen Autumn,The Fellow Traveller,Darkwave,587005465891, $12.22 ,1,15, $183.30 
+The Frozen Autumn,The Fellow Traveller,Darkwave,587005465891, $12.22 ,2,45, $549.90 
+The Frozen Autumn,The Fellow Traveller,Darkwave,587005465891, $12.22 ,3,12, $146.64 
+The Frozen Autumn,The Fellow Traveller,Darkwave,587005465891, $12.22 ,4,60, $733.20 
+The Jellyrox,Bang and Whimper,Synthpop,100235413287, $8.00 ,1,17, $136.00 
+The Jellyrox,Bang and Whimper,Synthpop,100235413287, $8.00 ,2,8, $64.00 
+The Jellyrox,Bang and Whimper,Synthpop,100235413287, $8.00 ,3,35, $280.00 
+The Jellyrox,Bang and Whimper,Synthpop,100235413287, $8.00 ,4,28, $224.00 
+The Killers,Wonderful Wonderful,Rock,175235411350, $11.88 ,1,155, $1,841.40 
+The Killers,Wonderful Wonderful,Rock,175235411350, $11.88 ,2,85, $1,009.80 
+The Killers,Wonderful Wonderful,Rock,175235411350, $11.88 ,3,155, $1,841.40 
+The Killers,Wonderful Wonderful,Rock,175235411350, $11.88 ,4,155, $1,841.40 
+Ulver,The Assassination of Julius Caesar,Synthpop,512548965412, $10.68 ,1,92, $982.56 
+Ulver,The Assassination of Julius Caesar,Synthpop,512548965412, $10.68 ,2,29, $309.72 
+Ulver,The Assassination of Julius Caesar,Synthpop,512548965412, $10.68 ,3,54, $576.72 
+Ulver,The Assassination of Julius Caesar,Synthpop,512548965412, $10.68 ,4,69, $736.92 
