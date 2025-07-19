@@ -1,6 +1,6 @@
 # <center style="font-size:40px;"> - - - - - - - - - - Home - - - - - - - - - - </center>
 
-<img src="../../Images/ms_excel/ribbons/1_home.png" style="width:100%;" />
+<img src="../../Images/ms_excel/ribbons/1_home.png" style="width:100%" />
 
 
 <br />
@@ -10,7 +10,7 @@
 
 # 1. Clip Board
 
-<img src="../../Images/ms_excel/tab_1_home/1_clip_board.png" style="width:100%;" />
+<img src="../../Images/ms_excel/tab_1_home/1_clip_board.png" style="width:50%" />
 
 ## Items:
 
@@ -28,7 +28,7 @@
 
 # 2. Font
 
-<img src="../../Images/ms_excel/tab_1_home/2_font.png" style="width:100%;" />
+<img src="../../Images/ms_excel/tab_1_home/2_font.png" style="width:50%" />
 
 ## Items:
 
@@ -50,7 +50,7 @@
 
 # 3. Alignment
 
-<img src="../../Images/ms_excel/tab_1_home/3_alignment.png" style="width:100%;" />
+<img src="../../Images/ms_excel/tab_1_home/3_alignment.png" style="width:50%" />
 
 ## Items:
 
@@ -73,7 +73,7 @@
 
 # 4. Numbers
 
-<img src="../../Images/ms_excel/tab_1_home/4_numbers.png" style="width:100%;" />
+<img src="../../Images/ms_excel/tab_1_home/4_numbers.png" style="width:50%" />
 
 ## Items:
 
@@ -92,7 +92,7 @@
 
 # 5. Styles
 
-<img src="../../Images/ms_excel/tab_1_home/5_styles.png" style="width:100%;" />
+<img src="../../Images/ms_excel/tab_1_home/5_styles.png" style="width:50%" />
 
 ## Items:
 
@@ -109,7 +109,7 @@
 
 # 6. Cells
 
-<img src="../../Images/ms_excel/tab_1_home/6_cells.png" style="width:100%;" />
+<img src="../../Images/ms_excel/tab_1_home/6_cells.png" style="width:50%" />
 
 ## Items:
 
@@ -126,7 +126,7 @@
 
 # 7. Editing
 
-<img src="../../Images/ms_excel/tab_1_home/7_editing.png" style="width:100%;" />
+<img src="../../Images/ms_excel/tab_1_home/7_editing.png" style="width:50%" />
 
 ## Items:
 
