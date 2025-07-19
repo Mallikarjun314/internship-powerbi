@@ -1,6 +1,6 @@
 # MS-Excel Important Formulas and Functions
 
-## 🔢 **1. Mathematical Functions**
+## **1. Mathematical Functions**
 
 | Formula     | Description                  | Example                 |
 | ----------- | ---------------------------- | ----------------------- |
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 **2. Logical Functions**
+## **2. Logical Functions**
 
 | Formula   | Description                  | Example                     |
 | --------- | ---------------------------- | --------------------------- |
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔍 **3. Lookup & Reference Functions**
+## **3. Lookup & Reference Functions**
 
 | Formula   | Description              | Example                              |
 | --------- | ------------------------ | ------------------------------------ |
@@ -44,7 +44,7 @@
 
 ---
 
-## 📅 **4. Date & Time Functions**
+## **4. Date & Time Functions**
 
 | Formula       | Description            | Example                 |
 | ------------- | ---------------------- | ----------------------- |
@@ -62,7 +62,7 @@
 
 ---
 
-## 🧾 **5. Text Functions**
+## **5. Text Functions**
 
 | Formula                  | Description                       | Example                         |
 | ------------------------ | --------------------------------- | ------------------------------- |
@@ -83,7 +83,7 @@
 
 ---
 
-## 💰 **6. Financial Functions**
+## **6. Financial Functions**
 
 | Formula | Description             | Example                   |
 | ------- | ----------------------- | ------------------------- |
@@ -96,7 +96,7 @@
 
 ---
 
-## 📊 **7. Statistical Functions**
+## **7. Statistical Functions**
 
 | Formula      | Description                  | Example                                   |
 | ------------ | ---------------------------- | ----------------------------------------- |
@@ -113,7 +113,7 @@
 
 ---
 
-## 🛠️ **8. Array / Dynamic Functions (New Excel)**
+## **8. Array / Dynamic Functions (New Excel)**
 
 | Formula     | Description                     | Example                         |
 | ----------- | ------------------------------- | ------------------------------- |
@@ -125,7 +125,7 @@
 
 ---
 
-## 🧮 **9. Engineering/Conversion Functions**
+## **9. Engineering/Conversion Functions**
 
 | Formula   | Description       | Example                     |
 | --------- | ----------------- | --------------------------- |
