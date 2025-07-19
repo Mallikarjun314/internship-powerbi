@@ -1,0 +1,27 @@
+Friday Task:
+1. Convert The Data into Table
+2. Clean Data by removing Dollar Sign and White Space from Data.
+3. Create a Total Row in "Table Design" Tab.
+4. Create Summary Statistics of Each Numeric Column: SUM, AVG, Min, Max, StdDev, Var.
+5. Try Different Filters In Table Headers for (Segment, Country, Product)
+6. Create Charts for each Numeric Column
+
+
+
+
+
+
+
+
+
+
+
+Y-Axis: =Table1[SalePrice]
+X-Axis: =Table1[Date]
+
+-----------------------------------------------------------
+Logical Formulas:
+1. IF, AND, OR, NOT, CHOOSE, IFERROR, IFS
+
+
+Tomorrow: Piviot Tables
