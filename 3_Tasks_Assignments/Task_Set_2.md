@@ -6,3 +6,6 @@
 4. Data Set 4: Super Store Sales
 5. Date Set 5: Car Sales
 6. Data Set 6: Video Game Sales
+
+-------------------------------------
+1. For each data set create multiple  piviot tables and charts each conveying unique insights.
