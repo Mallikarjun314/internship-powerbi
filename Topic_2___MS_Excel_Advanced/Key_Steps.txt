@@ -1,0 +1,33 @@
+1. Import / Load Data
+2. Create a Normal Table for the Range of Data.
+3. Recognize Categorical and Numerical Columns.
+4. Format each column to its appropriate data type in Number format.
+5. Create a blank Pivot-table from the Main-table
+6. In Pivot Table Fields you will see 4 Boxes: 
+
+
+6.1. Filters  : Filters
+6.2. Rows     : X-Axis
+6.3. Columns  : Sub Plots (Legend)
+6.4. Values   : Y-Axis
+
+
+6.5. Column Filters & Sorting by Labels & Values.
+6.6. Show & Summarize Values by Different methods.
+6.7. You can copy the pivot table within the same sheet to make a new one.
+7.  Generate Different types of Chart
+7.1. Line Plot
+7.2. Bar Plot
+7.3. Pie chart
+7.4. Scatter Plot
+
+-----------------------------------
+1. Raw Data Set
+2. Normal Table
+3. Pivot Tables
+4. Charts
+
+
+
+
+

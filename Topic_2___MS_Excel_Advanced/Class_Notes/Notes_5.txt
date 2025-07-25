@@ -1,0 +1,89 @@
+24 / July / 2025
+1. Lookup Functions: VLOOKUP, HLOOKUP, XLOOKUP
+
+=VLOOKUP( value, Table / Range,	Column_Index)
+=VLOOKUP( 1061,  TblSales,      7)
+
+=HLOOKUP( value,  Table / Range,Column_Index)
+=HLOOKUP("North", TblSales, 4)
+
+----------------------------------------------------
+INDEX & MATCH
+
+=MATCH(value, Range, 0)
+=MATCH(1061,  TblSales[Product_ID],  0)
+
+=INDEX(Array, Position)
+=INDEX(TblSales[Product_Category],6)
+
+----------------------------------------------------
+1. Referencing
+1.1. Relative Referencing ---> A2
+1.2. Absolute Referencing ---> $A$2
+1.3. Table Structured Referencing ---> TblName[ColName]
+
+Example: 
+=SUM(E2:E1001)
+=SUM(TblSales[Sales_Amount])
+----------------------------------------------------
+# Utility
+1. Freeze Top Rows
+2. Zoom to Selection
+3. Load Data from CSV/Text/TSV
+4. Always Refresh Pivot Tables after Data Change
+
+----------------------------------------------------
+# Pivot Tables & Charts
+1. Filters ----- Filters
+2. Rows  ------- X-Axis
+3. Columns ----- Legend
+4. Values ------ Y-Axis (Important Columns)
+4.1. Summarize Values by: Count, Sum, Max, Min, Product
+4.2. Show Values by: Percentage of Column-Total, Row-Total, Grand-Total
+5. Slicers and Timelines
+6. Charts Styling
+6.1. Gridlines
+6.2. Legend
+6.3. Axis Labels
+6.4. Chart Title
+6.5. Axis Title
+* Customize Charts and Slicers Styling
+
+-----------------------------------------------------
+1. Multiple Nested Rows
+2. Multiple Nested Columns
+
+-------------------------------------------------------
+# Sorting ----- Rows & Columns
+1. Sorting by Values
+2. Sorting by Label
+
+-------------------------------------------------------
+# Filter ----- Rows & Columns
+1. Filter by Values
+2. Filter by Label
+3. Filter Top 10
+4. Filter Individual
+
+-------------------------------------------------------
+# Summary Statistics
+- Data: Set of Meaningful Measurements
+1. Sum
+2. Count
+3. Median
+4. Mode
+5. Average
+6. Min
+7. Max
+
+----------------------------------------------------------
+# Sheets
+1. Dataset 
+2. PivotTables
+3. Dashboard
+4. Report
+
+
+
+
+
