@@ -56,7 +56,8 @@
 5. Scatter Plot
 ====================================================
 # Formulas
-------------------- MATH
+### MATH
+```
 =SUM(range / value, ...)
 =PRODUCT(range / value, ...)
 =ROUND(value)
@@ -66,31 +67,38 @@
 =MOD(val1, val2)
 =POWER(val1, val2)
 =SQRT(val1)
-
-------------------- Logical
+```
+### Logical
+```
 =IF( condition, val1, val2 )
 =IFERROR ( val1,  val2)
 =AND( c1, c2, c3 ...)
 =OR( c1, c2, c3, ...)
 =NOT( condition )
 =IFS( c1, v1, c2, v2, c3, v3 ...)
+```
 
-------------------- Date & Time
+### Date & Time
+```
 =TODAY()
 =NOW()
 =DATE( yyyy, mm, dd)
 =DAY(date)
 =MONTH(date)
 =YEAR(date)
+```
 
-------------------- Lookup & Reference ***
+### Lookup & Reference ***
+```
 =VLOOKUP(val, table-range, pos ,FALSE)
 =HLOOKUP(val, table-range, pos ,FALSE)
 =INDEX(pos, range)
 =MATCH(val, range, FALSE)
 =CHOOSE(pos, val1, val2, val3, ...)
+```
 
-------------------- Statistics
+### Statistics
+```
 =AVERAGE( range / values )
 =MEDIAN( range / values )
 =MODE( range / values )
@@ -100,12 +108,10 @@
 =COUNTBLANK( range / values )
 =COUNTIF( range / values )
 =COUNTIFS( range / values )
+```
 
-
-
-
-
-------------------- Text Functions
+### Text Functions
+```
 CONCAT
 TEXTJOIN
 LEFT
@@ -120,10 +126,13 @@ LOWER
 PROPER
 REPLACE
 SUBSTITUTE
+```
 
------------------- Arrays
+### Arrays
+```
 UNIQUE
 SORT
 FILTER
 SEQUENCE
 RANDARRAY
+```
